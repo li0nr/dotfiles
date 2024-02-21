@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 5487d8a5475dce1d2fc7e10e25dd19ff21e31be7 Ramy Fakhoury <Ramy.fakhoury@vastdata.com> 1706727637 +0200	clone: from https://github.com/vvnraman/neovim-config
+5487d8a5475dce1d2fc7e10e25dd19ff21e31be7 398c74df7f73a24c7f66897ba5635420054f5dc6 Ramy Fakhoury <Ramy.fakhoury@vastdata.com> 1706952191 +0200	commit: neovim: My first entry to make things to my taste.
+398c74df7f73a24c7f66897ba5635420054f5dc6 60e41373422775987d3cdbae9d08ab5d8dfd3a66 Ramy Fakhoury <Ramy.fakhoury@vastdata.com> 1707072991 +0200	commit: removing a lot of stuff making cpp neovim blazing fast, while keeping esstienals
+60e41373422775987d3cdbae9d08ab5d8dfd3a66 146bceab8a0d2cc955e046d47ffabf0b4799b6b7 Ramy Fakhoury <Ramy.fakhoury@vastdata.com> 1707207893 +0200	commit: Round 2 of cleaning, added toggleterm and changed a lot of mappings
