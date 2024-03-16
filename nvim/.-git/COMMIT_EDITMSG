@@ -1,1 +1,18 @@
-final adjustments - tinckering period is done
+some cleanups.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Sat Mar 16 20:53:18 2024 +0200
+#
+# On branch modified
+# Changes to be committed:
+#	modified:   lua/autocommands.lua
+#	modified:   lua/keymaps.lua
+#	modified:   lua/options.lua
+#	modified:   lua/plugins/config/telescope.lua
+#	modified:   lua/plugins/spec/hotkeys.lua
+#
+# Changes not staged for commit:
+#	modified:   lazy-lock.json
+#
